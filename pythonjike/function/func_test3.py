@@ -3,6 +3,7 @@
 # Author:HuanBing
 
 #闭包的使用
+#闭包的使用
 #a*x+b=Y
 def a_line(a,b):
     def arg_y(x):
